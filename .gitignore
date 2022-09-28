@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+include
+Lib
+button.py
+test.py
+pyvenv.cfg
+.idea
+__pycache__
+Scripts
